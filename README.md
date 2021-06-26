@@ -1,2 +1,2 @@
 # moebinux
-Cute i3 rice setup. Based on the Cerulean rice.
+Moebinux is a rice for i3-gaps for any distro. Based on the Cerulean rice.
